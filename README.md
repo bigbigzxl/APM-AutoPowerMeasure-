@@ -1,6 +1,7 @@
 # APM-AutoPowerMeasure-
 
 AutoPowerMeasure System. Include hardware design, software, driver and so on.
+**目前仅实现功能能用，代码完全还没组织、重构过，因此后续有时间慢慢修改！代码还是要简洁的好啊！**
 
 # 自动化功耗测试系统
 
