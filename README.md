@@ -16,4 +16,6 @@ AutoPowerMeasure System. Include hardware design, software, driver and so on.
 
 
 + 上位机功能测试模块（如功耗测试、设备管理、功耗显示等）
-![](https://upload-images.jianshu.io/upload_images/4749583-70b8a85530752e1c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![](https://upload-images.jianshu.io/upload_images/4749583-621d3b070ec1c820.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
